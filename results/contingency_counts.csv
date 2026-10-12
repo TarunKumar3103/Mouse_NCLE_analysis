@@ -1,0 +1,9 @@
+Analysis,NCLE_definition,NCLE,NED,Non_NED,Total,NED_frequency
+Primary: NED vs ED,Any detected NCLE,1,127,466,593,0.21416526138279932
+Primary: NED vs ED,Any detected NCLE,0,30,165,195,0.15384615384615385
+Primary: NED vs ED,High-quality detection only,1,124,457,581,0.2134251290877797
+Primary: NED vs ED,High-quality detection only,0,30,165,195,0.15384615384615385
+Sensitivity: NED vs ED + UN,Any detected NCLE,1,127,869,996,0.12751004016064257
+Sensitivity: NED vs ED + UN,Any detected NCLE,0,30,276,306,0.09803921568627451
+Sensitivity: NED vs ED + UN,High-quality detection only,1,124,851,975,0.12717948717948718
+Sensitivity: NED vs ED + UN,High-quality detection only,0,30,276,306,0.09803921568627451

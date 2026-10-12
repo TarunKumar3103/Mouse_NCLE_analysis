@@ -1,0 +1,68 @@
+{
+  "cohort_sizes": {
+    "Primary: NED vs ED": 788,
+    "Sensitivity: NED vs ED + UN": 1302
+  },
+  "mean_pLDDT_cutoff": ">=70",
+  "protein_length_source": "Matching AlphaFold model v6 sequence length",
+  "main_NCLE": "Any ENT=True and CCbond=False row; any native covalent row excluded",
+  "local_quality_check": "Require a Quality=High noncovalent detection for positives; exclude Low-only detections; empty files remain no detected NCLE",
+  "pLDDT_method": "Arithmetic mean of exact-v6 confidenceScore values, one per residue; 1..N coordinates and sequence length verified",
+  "mouse_AlphaLasso_IDs": 2034,
+  "metadata_statuses": {
+    "ok": 2438
+  },
+  "eligible_AF_UniProt_length_disagreements": 0,
+  "eligible_NCLE_definition_differences": 21,
+  "confidence_statuses": {
+    "ok": 1653
+  },
+  "AFDB_vs_residue_mean_cutoff_disagreements": 2,
+  "versions": {
+    "python": "3.12.14",
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "scipy": "1.17.0"
+  },
+  "sources": [
+    {
+      "filename": "mcshane_native_exact_merge.csv",
+      "bytes": 1927366,
+      "sha256": "70fc6e8ce277e389d367783b06c64caba0ee0898da1f81d2026e3615bca808c2"
+    },
+    {
+      "filename": "alphafold_metadata.csv",
+      "bytes": 2293972,
+      "sha256": "ed94d8cd016cea18caf4365377f81a84da5765d7076078b5de5586b03ffc801e"
+    },
+    {
+      "filename": "residue_confidence_means.csv",
+      "bytes": 305719,
+      "sha256": "0ac19fbba41fcc7d76cd33f577735cca69624eee0504593887515da803481840"
+    },
+    {
+      "filename": "knot_all.txt",
+      "bytes": 18206448,
+      "sha256": "44a2f00c7a6c63981e513298e44e3e979254c890823afd6005b216f112d6b89f"
+    },
+    {
+      "filename": "AlphaLasso.zip",
+      "bytes": 43996425,
+      "sha256": "ec59f51dd73e62b52fe0f8e2f946c2842c43b65d2526c838141598b841543264"
+    },
+    {
+      "filename": "uniprot_mouse_keyword_snapshot_2026_10_10.tsv",
+      "bytes": 16077696,
+      "sha256": "1c418131e06019345b585030acd51381c7659ed9984975cdf7c2c368f9e4fd13"
+    }
+  ],
+  "notes": [
+    "MobiDB disorder and complex membership are not used.",
+    "UN is included only in the sensitivity analysis.",
+    "Exact accession matching preserves isoform suffixes.",
+    "Empty native detection CSVs are treated as no detected NCLE; completion logs were not supplied.",
+    "Any-source covalent and supplied knot exclusions apply regardless of detection quality or source model version.",
+    "UniProt keywords are a current frozen snapshot, not historical McShane annotations.",
+    "The High-only check excludes Low-only detections rather than classifying them as confirmed negatives."
+  ]
+}

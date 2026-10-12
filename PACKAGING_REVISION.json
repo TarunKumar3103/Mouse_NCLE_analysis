@@ -1,0 +1,20 @@
+{
+  "Revision_date": "2026-10-11",
+  "Mouse_confidence_candidate_rows": 1653,
+  "Mouse_candidate_records_unchanged": true,
+  "Mouse_candidate_order": "Canonical ascending UniProt_ID",
+  "Mouse_AlphaLasso_native_overlap_rows": 1128,
+  "Mouse_AlphaLasso_evidence_byte_identical": true,
+  "Scientific_results_changed": false,
+  "Interpretation_corrections": [
+    "ED-only observations can change odds-ratio denominators",
+    "Yeast poor-fit endpoint differs from McShane NED",
+    "Human membrane and secreted export dates differ"
+  ],
+  "Package": "Mouse_NCLE_analysis",
+  "Scientific_CSVs_byte_identical": 13,
+  "Raw_scientific_files_byte_identical": 4102,
+  "Formatted_workbook_byte_identical": true,
+  "Independent_numerical_comparisons": 88,
+  "Independent_numerical_failures": 0
+}

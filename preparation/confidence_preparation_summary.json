@@ -1,0 +1,77 @@
+{
+  "Confidence_candidate_count": 1653,
+  "Mouse_AlphaLasso_rows": 2519,
+  "Mouse_AlphaLasso_unique_accessions": 2034,
+  "Native_overlap_AlphaLasso_rows": 1128,
+  "Native_overlap_AlphaLasso_unique_accessions": 888,
+  "AlphaLasso_output_scope": "Mouse-labelled archive rows with an exact accession in the full supplied native annotation archive",
+  "Candidate_output_order": "Ascending UniProt_ID; row order does not enter the analysis",
+  "Candidate_definition": "Exact native match, binary NCLE, no knot/covalent flag, keyword coverage, no Membrane or Secreted keyword",
+  "Protein_pLDDT_filter_applied": false,
+  "Degradation_category_filter_applied": false,
+  "Network_access_used": false,
+  "Flow": [
+    {
+      "Step": "All prepared experimental records",
+      "Remaining": 3292,
+      "Removed": 0
+    },
+    {
+      "Step": "Exact native accession match",
+      "Remaining": 2438,
+      "Removed": 854
+    },
+    {
+      "Step": "Binary native NCLE call",
+      "Remaining": 2411,
+      "Removed": 27
+    },
+    {
+      "Step": "Exclude supplied knots",
+      "Remaining": 2356,
+      "Removed": 55
+    },
+    {
+      "Step": "Exclude native and AlphaLasso covalent records",
+      "Remaining": 2350,
+      "Removed": 6
+    },
+    {
+      "Step": "Require frozen keyword coverage",
+      "Remaining": 2350,
+      "Removed": 0
+    },
+    {
+      "Step": "Exclude Membrane and Secreted keywords",
+      "Remaining": 1653,
+      "Removed": 697
+    }
+  ],
+  "Sources": [
+    {
+      "filename": "mcshane_native_exact_merge.csv",
+      "bytes": 1927366,
+      "sha256": "70fc6e8ce277e389d367783b06c64caba0ee0898da1f81d2026e3615bca808c2"
+    },
+    {
+      "filename": "native_protein_annotations.csv",
+      "bytes": 2408947,
+      "sha256": "a071dae39c979a8823742d484661f8673c189ec0f00ab31adb0c7ca0ce7daa77"
+    },
+    {
+      "filename": "knot_all.txt",
+      "bytes": 18206448,
+      "sha256": "44a2f00c7a6c63981e513298e44e3e979254c890823afd6005b216f112d6b89f"
+    },
+    {
+      "filename": "AlphaLasso.zip",
+      "bytes": 43996425,
+      "sha256": "ec59f51dd73e62b52fe0f8e2f946c2842c43b65d2526c838141598b841543264"
+    },
+    {
+      "filename": "uniprot_mouse_keyword_snapshot_2026_10_10.tsv",
+      "bytes": 16077696,
+      "sha256": "1c418131e06019345b585030acd51381c7659ed9984975cdf7c2c368f9e4fd13"
+    }
+  ]
+}

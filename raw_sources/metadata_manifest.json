@@ -1,0 +1,10 @@
+{
+  "retrieved_UTC": "2026-10-10T16:16:18.501029+00:00",
+  "source": "Official AlphaFold DB API",
+  "required_model_version": 6,
+  "queries": 2438,
+  "statuses": {
+    "ok": 2438
+  },
+  "threshold": "Final cutoff uses separately retrieved per-residue means, not these summary values"
+}

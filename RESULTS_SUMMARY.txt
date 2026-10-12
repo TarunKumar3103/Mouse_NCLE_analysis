@@ -1,0 +1,39 @@
+MOUSE NCLE-NED RESULTS: VERIFIED 2026-10-10
+
+Primary cohort: 788 proteins (631 ED, 157 NED).
+NCLE present: 127 NED / 593 proteins (21.4%).
+No detected NCLE: 30 NED / 195 proteins (15.4%).
+Sensitivity cohort: 1,302 proteins; 514 UN included as non-NED.
+
+Analysis | Method | N | NCLE OR | 95% CI | P
+Primary: NED vs ED | Crude Fisher exact | 788 | 1.498927 | 0.969538-2.317374 | 0.078644
+Primary: NED vs ED | Model 1: NED ~ NCLE + z(length) | 788 | 1.485521 | 0.951341-2.319644 | 0.081757
+Sensitivity: NED vs ED + UN | Crude Fisher exact | 1302 | 1.344534 | 0.883174-2.046902 | 0.191872
+Sensitivity: NED vs ED + UN | Model 1: NED ~ NCLE + z(length) | 1302 | 1.376428 | 0.894559-2.117864 | 0.146178
+
+Interpretation: the mouse NCLE estimates are positive, but all reported
+NCLE confidence intervals include 1 and all P-values exceed 0.05. These data
+do not establish a positive association; they also do not exclude a moderate
+positive effect. NCLE status does not directly measure misfolding.
+
+Main coding matches human: any detected native non-covalent entanglement.
+Only protein length is adjusted in Model 1. No disorder or complex filter.
+
+Additional local-quality check excludes 12 Low-only proteins from primary
+(N=776) and 21 from sensitivity (N=1,281). Adjusted NCLE ORs are 1.499071
+(0.958901-2.343530; P=0.075754) and 1.393900
+(0.904876-2.147209; P=0.131932), respectively.
+
+Quality: mean pLDDT >=70, calculated from exact-v6 residue confidence arrays.
+API summary scores are not used for cutoff selection. Q5SUF2 and Q9CXG3 have
+API summary scores of 70.0 but residue means 69.974583 and 69.982988.
+Both fail the whole-protein arithmetic mean >=70 criterion.
+
+Exact accessions are preserved. 854 experimental rows lack a native archive
+match, including all 373 experimental isoform IDs; no remapping is attempted.
+Empty detection files are treated as no detected NCLE under the supplied
+schema. Original detector completion logs were not supplied.
+
+Workbook: Mouse_NCLE_NED_association_results.xlsx.
+All scripts, input snapshots, raw AlphaFold responses, full fitted results,
+cohort exclusions and checks are in this package. See README.txt for commands.

@@ -1,0 +1,89 @@
+Analysis,NCLE_definition,Method,Term,Field,Independent,Shipped,Pass
+Primary: NED vs ED,Any detected NCLE,Model 1,Intercept,Coefficient,-1.6980667296069092,-1.6980667002019176,True
+Primary: NED vs ED,Any detected NCLE,Model 1,Intercept,SE,0.2015654600943434,0.2015654581006217,True
+Primary: NED vs ED,Any detected NCLE,Model 1,Intercept,OR,0.18303704231417822,0.1830370476963809,True
+Primary: NED vs ED,Any detected NCLE,Model 1,Intercept,CI_lower,0.12330087504998369,0.1233008791574582,True
+Primary: NED vs ED,Any detected NCLE,Model 1,Intercept,CI_upper,0.27171387750120185,0.2717138844291909,True
+Primary: NED vs ED,Any detected NCLE,Model 1,Intercept,P_value,3.626240055580296e-17,3.626241992807697e-17,True
+Primary: NED vs ED,Any detected NCLE,Model 1,NCLE,Coefficient,0.39576558047897237,0.3957655510729147,True
+Primary: NED vs ED,Any detected NCLE,Model 1,NCLE,SE,0.22737563095522545,0.227375629183878,True
+Primary: NED vs ED,Any detected NCLE,Model 1,NCLE,OR,1.4855210416005953,1.4855209979172783,True
+Primary: NED vs ED,Any detected NCLE,Model 1,NCLE,CI_lower,0.9513412317712843,0.9513412070989342,True
+Primary: NED vs ED,Any detected NCLE,Model 1,NCLE,CI_upper,2.3196437738006677,2.3196436975358043,True
+Primary: NED vs ED,Any detected NCLE,Model 1,NCLE,P_value,0.08175714508146657,0.081757165388944,True
+Primary: NED vs ED,Any detected NCLE,Model 1,z_Protein_length,Coefficient,0.016919256218208355,0.0169192562430083,True
+Primary: NED vs ED,Any detected NCLE,Model 1,z_Protein_length,SE,0.08956551554114141,0.0895655154545096,True
+Primary: NED vs ED,Any detected NCLE,Model 1,z_Protein_length,OR,1.0170631974808644,1.0170631975060875,True
+Primary: NED vs ED,Any detected NCLE,Model 1,z_Protein_length,CI_lower,0.8533155002844294,0.8533155004504803,True
+Primary: NED vs ED,Any detected NCLE,Model 1,z_Protein_length,CI_upper,1.2122333970556083,1.2122333968798404,True
+Primary: NED vs ED,Any detected NCLE,Model 1,z_Protein_length,P_value,0.8501683028833819,0.8501683025231528,True
+Primary: NED vs ED,Any detected NCLE,Crude,NCLE,OR,1.4989270386266094,1.4989270386266094,True
+Primary: NED vs ED,Any detected NCLE,Crude,NCLE,CI_lower,0.9695381963733473,0.9695381963733471,True
+Primary: NED vs ED,Any detected NCLE,Crude,NCLE,CI_upper,2.3173736481246907,2.3173736481246907,True
+Primary: NED vs ED,Any detected NCLE,Crude,NCLE,P_value,0.07864392470762054,0.0786439247076205,True
+Primary: NED vs ED,High-quality detection only,Model 1,Intercept,Coefficient,-1.7081371303442454,-1.7081371042932767,True
+Primary: NED vs ED,High-quality detection only,Model 1,Intercept,SE,0.20181233399160678,0.2018123322248939,True
+Primary: NED vs ED,High-quality detection only,Model 1,Intercept,OR,0.18120303603669147,0.1812030407572061,True
+Primary: NED vs ED,High-quality detection only,Model 1,Intercept,CI_lower,0.12200636827890744,0.1220063718797622,True
+Primary: NED vs ED,High-quality detection only,Model 1,Intercept,CI_upper,0.2691215280980621,0.2691215341770533,True
+Primary: NED vs ED,High-quality detection only,Model 1,Intercept,P_value,2.583868913439425e-17,2.5838701323962157e-17,True
+Primary: NED vs ED,High-quality detection only,Model 1,NCLE,Coefficient,0.4048455910973587,0.4048455650475515,True
+Primary: NED vs ED,High-quality detection only,Model 1,NCLE,SE,0.2279698786148029,0.2279698770467153,True
+Primary: NED vs ED,High-quality detection only,Model 1,NCLE,OR,1.4990710122753528,1.4990709732248426,True
+Primary: NED vs ED,High-quality detection only,Model 1,NCLE,CI_lower,0.958901269848022,0.9589012478159116,True
+Primary: NED vs ED,High-quality detection only,Model 1,NCLE,CI_upper,2.3435300072137935,2.343529938962696,True
+Primary: NED vs ED,High-quality detection only,Model 1,NCLE,P_value,0.07575382400965718,0.0757538408342452,True
+Primary: NED vs ED,High-quality detection only,Model 1,z_Protein_length,Coefficient,-0.008550724650879322,-0.0085507246515454,True
+Primary: NED vs ED,High-quality detection only,Model 1,z_Protein_length,SE,0.0918324405327682,0.0918324404493619,True
+Primary: NED vs ED,High-quality detection only,Model 1,z_Protein_length,OR,0.9914857288199573,0.991485728819297,True
+Primary: NED vs ED,High-quality detection only,Model 1,z_Protein_length,CI_lower,0.8281682036628996,0.8281682037977314,True
+Primary: NED vs ED,High-quality detection only,Model 1,z_Protein_length,CI_upper,1.187010013310996,1.1870100131161607,True
+Primary: NED vs ED,High-quality detection only,Model 1,z_Protein_length,P_value,0.9258143900372543,0.925814389964308,True
+Primary: NED vs ED,High-quality detection only,Crude,NCLE,OR,1.4923413566739605,1.4923413566739605,True
+Primary: NED vs ED,High-quality detection only,Crude,NCLE,CI_lower,0.9642896000275027,0.9642896000275027,True
+Primary: NED vs ED,High-quality detection only,Crude,NCLE,CI_upper,2.3095579634748296,2.3095579634748296,True
+Primary: NED vs ED,High-quality detection only,Crude,NCLE,P_value,0.0778715109576745,0.0778715109576745,True
+Sensitivity: NED vs ED + UN,Any detected NCLE,Model 1,Intercept,Coefficient,-2.2377696660142017,-2.237769655714499,True
+Sensitivity: NED vs ED + UN,Any detected NCLE,Model 1,Intercept,SE,0.19631256750592585,0.196312566723149,True
+Sensitivity: NED vs ED + UN,Any detected NCLE,Model 1,Intercept,OR,0.10669620737965169,0.1066962084785909,True
+Sensitivity: NED vs ED + UN,Any detected NCLE,Model 1,Intercept,CI_lower,0.07261852473660185,0.0726185255959634,True
+Sensitivity: NED vs ED + UN,Any detected NCLE,Model 1,Intercept,CI_upper,0.15676551830945876,0.1567655196835851,True
+Sensitivity: NED vs ED + UN,Any detected NCLE,Model 1,Intercept,P_value,4.228822247481173e-30,4.228822588121285e-30,True
+Sensitivity: NED vs ED + UN,Any detected NCLE,Model 1,NCLE,Coefficient,0.3194915208986916,0.3194915105983147,True
+Sensitivity: NED vs ED + UN,Any detected NCLE,Model 1,NCLE,SE,0.21985934879299798,0.2198593480927295,True
+Sensitivity: NED vs ED + UN,Any detected NCLE,Model 1,NCLE,OR,1.3764277016466677,1.3764276874689436,True
+Sensitivity: NED vs ED + UN,Any detected NCLE,Model 1,NCLE,CI_lower,0.8945585841843966,0.8945585761978886,True
+Sensitivity: NED vs ED + UN,Any detected NCLE,Model 1,NCLE,CI_upper,2.1178637725417,2.117863747820135,True
+Sensitivity: NED vs ED + UN,Any detected NCLE,Model 1,NCLE,P_value,0.1461784393362351,0.1461784510562086,True
+Sensitivity: NED vs ED + UN,Any detected NCLE,Model 1,z_Protein_length,Coefficient,-0.042484477405958655,-0.0424844773793907,True
+Sensitivity: NED vs ED + UN,Any detected NCLE,Model 1,z_Protein_length,SE,0.08929133118813101,0.0892913311490804,True
+Sensitivity: NED vs ED + UN,Any detected NCLE,Model 1,z_Protein_length,OR,0.9584053423425394,0.9584053423680022,True
+Sensitivity: NED vs ED + UN,Any detected NCLE,Model 1,z_Protein_length,CI_lower,0.8045338234061625,0.8045338234891144,True
+Sensitivity: NED vs ED + UN,Any detected NCLE,Model 1,z_Protein_length,CI_upper,1.1417056356212412,1.1417056355641906,True
+Sensitivity: NED vs ED + UN,Any detected NCLE,Model 1,z_Protein_length,P_value,0.6342195667038004,0.6342195667675388,True
+Sensitivity: NED vs ED + UN,Any detected NCLE,Crude,NCLE,OR,1.3445339470655926,1.3445339470655926,True
+Sensitivity: NED vs ED + UN,Any detected NCLE,Crude,NCLE,CI_lower,0.8831744975511818,0.8831744975511818,True
+Sensitivity: NED vs ED + UN,Any detected NCLE,Crude,NCLE,CI_upper,2.04690187479855,2.04690187479855,True
+Sensitivity: NED vs ED + UN,Any detected NCLE,Crude,NCLE,P_value,0.19187153935686313,0.191871539356863,True
+Sensitivity: NED vs ED + UN,High-quality detection only,Model 1,Intercept,Coefficient,-2.250695550391246,-2.2506955397309105,True
+Sensitivity: NED vs ED + UN,High-quality detection only,Model 1,Intercept,SE,0.19673436295527255,0.1967343621511011,True
+Sensitivity: NED vs ED + UN,High-quality detection only,Model 1,Intercept,OR,0.1053259395796369,0.1053259407024467,True
+Sensitivity: NED vs ED + UN,High-quality detection only,Model 1,Intercept,CI_lower,0.07162666799679597,0.0716266688732544,True
+Sensitivity: NED vs ED + UN,High-quality detection only,Model 1,Intercept,CI_upper,0.15488021233696878,0.1548802137439297,True
+Sensitivity: NED vs ED + UN,High-quality detection only,Model 1,Intercept,P_value,2.63045230180845e-30,2.6304525268762162e-30,True
+Sensitivity: NED vs ED + UN,High-quality detection only,Model 1,NCLE,Coefficient,0.3321058021970917,0.3321057915725139,True
+Sensitivity: NED vs ED + UN,High-quality detection only,Model 1,NCLE,SE,0.22044448014687743,0.2204444794302613,True
+Sensitivity: NED vs ED + UN,High-quality detection only,Model 1,NCLE,OR,1.393900318427275,1.3939003036176727,True
+Sensitivity: NED vs ED + UN,High-quality detection only,Model 1,NCLE,CI_lower,0.9048759292052028,0.904875920862214,True
+Sensitivity: NED vs ED + UN,High-quality detection only,Model 1,NCLE,CI_upper,2.147209396340396,2.147209370511358,True
+Sensitivity: NED vs ED + UN,High-quality detection only,Model 1,NCLE,P_value,0.1319316610714823,0.1319316721778602,True
+Sensitivity: NED vs ED + UN,High-quality detection only,Model 1,z_Protein_length,Coefficient,-0.0716476315001691,-0.0716476312012349,True
+Sensitivity: NED vs ED + UN,High-quality detection only,Model 1,z_Protein_length,SE,0.09203803871770305,0.0920380386542071,True
+Sensitivity: NED vs ED + UN,High-quality detection only,Model 1,z_Protein_length,OR,0.9308588433628091,0.9308588436410746,True
+Sensitivity: NED vs ED + UN,High-quality detection only,Model 1,z_Protein_length,CI_lower,0.7772145251365927,0.777214525465653,True
+Sensitivity: NED vs ED + UN,High-quality detection only,Model 1,z_Protein_length,CI_upper,1.1148764700639928,1.1148764702585212,True
+Sensitivity: NED vs ED + UN,High-quality detection only,Model 1,z_Protein_length,P_value,0.43629980060418094,0.4362998022017602,True
+Sensitivity: NED vs ED + UN,High-quality detection only,Crude,NCLE,OR,1.3405405405405406,1.3405405405405406,True
+Sensitivity: NED vs ED + UN,High-quality detection only,Crude,NCLE,CI_lower,0.8796882411253182,0.8796882411253182,True
+Sensitivity: NED vs ED + UN,High-quality detection only,Crude,NCLE,CI_upper,2.0428247836232263,2.0428247836232263,True
+Sensitivity: NED vs ED + UN,High-quality detection only,Crude,NCLE,P_value,0.1906568557593804,0.1906568557593805,True

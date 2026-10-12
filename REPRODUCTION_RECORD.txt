@@ -1,0 +1,15 @@
+date_UTC: 2026-10-10
+python: 3.12.14
+original_native_archive_crc: PASS
+exact_native_files: 21452
+validated_metadata_responses: 2438
+validated_candidate_confidence_arrays: 1653
+independent_cohorts_checked: 4
+independent_numeric_fields_checked: 88
+independent_failures: 0
+fresh_replay_scientific_csvs_identical: 13
+spreadsheet_formula_count_and_OR_checks: PASS
+spreadsheet_error_scan_matches: 0
+visual_previews_checked: 4
+provenance_note: Production detector itself was not rerun; supplied annotations were audited.
+no_live_queries_required_for_replay: True

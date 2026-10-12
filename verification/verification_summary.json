@@ -1,0 +1,7 @@
+{
+  "Independent_cohort_IDs_and_fields": "PASS",
+  "Numerical_fields_checked": 88,
+  "Numerical_failures": 0,
+  "Independent_regression_method": "Solve logistic score equations; no analysis-script functions imported",
+  "Independent_crude_P_method": "Enumerate fixed-margin hypergeometric probabilities"
+}

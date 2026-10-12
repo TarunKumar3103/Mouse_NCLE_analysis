@@ -1,0 +1,21 @@
+Analysis,Step,Total,Removed,ED,NED,UN
+Primary: NED vs ED,Select experimental degradation categories,1953,,1622,331,0
+Primary: NED vs ED,Require exact native accession match,1438,515.0,1169,269,0
+Primary: NED vs ED,Require binary native NCLE status,1425,13.0,1158,267,0
+Primary: NED vs ED,Exclude supplied knotted proteins,1387,38.0,1122,265,0
+Primary: NED vs ED,Exclude supplied or detected covalent lassos,1384,3.0,1120,264,0
+Primary: NED vs ED,Require mouse UniProt keyword coverage,1384,0.0,1120,264,0
+Primary: NED vs ED,Exclude UniProt Membrane keyword,1022,362.0,849,173,0
+Primary: NED vs ED,Exclude UniProt Secreted keyword,1002,20.0,832,170,0
+Primary: NED vs ED,Require matching v6 metadata and residue confidence,1002,0.0,832,170,0
+Primary: NED vs ED,Retain protein mean pLDDT >=70,788,214.0,631,157,0
+Sensitivity: NED vs ED + UN,Select experimental degradation categories,3292,,1622,331,1339
+Sensitivity: NED vs ED + UN,Require exact native accession match,2438,854.0,1169,269,1000
+Sensitivity: NED vs ED + UN,Require binary native NCLE status,2411,27.0,1158,267,986
+Sensitivity: NED vs ED + UN,Exclude supplied knotted proteins,2356,55.0,1122,265,969
+Sensitivity: NED vs ED + UN,Exclude supplied or detected covalent lassos,2350,6.0,1120,264,966
+Sensitivity: NED vs ED + UN,Require mouse UniProt keyword coverage,2350,0.0,1120,264,966
+Sensitivity: NED vs ED + UN,Exclude UniProt Membrane keyword,1684,666.0,849,173,662
+Sensitivity: NED vs ED + UN,Exclude UniProt Secreted keyword,1653,31.0,832,170,651
+Sensitivity: NED vs ED + UN,Require matching v6 metadata and residue confidence,1653,0.0,832,170,651
+Sensitivity: NED vs ED + UN,Retain protein mean pLDDT >=70,1302,351.0,631,157,514

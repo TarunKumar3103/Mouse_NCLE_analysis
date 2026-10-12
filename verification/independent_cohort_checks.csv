@@ -1,0 +1,5 @@
+Analysis,NCLE_definition,N,Exact_ID_match,Field_disagreements
+Primary: NED vs ED,Any detected NCLE,788,True,0
+Primary: NED vs ED,High-quality detection only,776,True,0
+Sensitivity: NED vs ED + UN,Any detected NCLE,1302,True,0
+Sensitivity: NED vs ED + UN,High-quality detection only,1281,True,0

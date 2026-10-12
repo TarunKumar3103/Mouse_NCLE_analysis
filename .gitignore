@@ -1,0 +1,7 @@
+results/local_*/
+verification/local_*/
+__pycache__/
+*.pyc
+.DS_Store
+__MACOSX/
+.venv/

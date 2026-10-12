@@ -1,0 +1,12 @@
+{
+  "URL": "https://rest.uniprot.org/uniprotkb/stream?query=%28organism_id%3A10090%29&format=tsv&fields=accession%2Clength%2Corganism_id%2Corganism_name%2Ckeywordid%2Ckeyword",
+  "retrieved_UTC": "2026-10-10T15:57:35.319206+00:00",
+  "entry_count": 87756,
+  "SHA256": "1c418131e06019345b585030acd51381c7659ed9984975cdf7c2c368f9e4fd13",
+  "response_headers": {
+    "X-UniProt-Release": "2026_03",
+    "X-UniProt-Release-Date": "02-September-2026"
+  },
+  "Membrane_keyword": "KW-0472",
+  "Secreted_keyword": "KW-0964"
+}

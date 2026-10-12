@@ -1,0 +1,59 @@
+{
+  "native_files": 21452,
+  "native_record_rows": 720279,
+  "empty_files": 8568,
+  "record_quality_counts": {
+    "High": 584969,
+    "Low": 135310
+  },
+  "record_reason_counts": {
+    "NC and Crossings pLDDT >= 70": 584969,
+    "NC pLDDT < 70": 118042,
+    "No HQ crossings": 17268
+  },
+  "columns": [
+    "ID",
+    "chain",
+    "i",
+    "j",
+    "crossingsN",
+    "crossingsC",
+    "gn",
+    "gc",
+    "GLNn",
+    "GLNc",
+    "TLNn",
+    "TLNc",
+    "CCbond",
+    "ENT",
+    "Quality",
+    "Reason"
+  ],
+  "native_covalent_proteins": 824,
+  "any_ncle_proteins": 12060,
+  "any_ncle_negative_proteins": 8568,
+  "high_only_ncle_proteins": 11023,
+  "high_only_negative_proteins": 8568,
+  "noncovalent_low_only_proteins": 1037,
+  "mcshane_rows": 3292,
+  "mcshane_profiles": {
+    "ED": 1622,
+    "UN": 1339,
+    "NED": 331
+  },
+  "mcshane_isoform_ids": 373,
+  "exact_native_matches": 2438,
+  "unmatched_records": 854,
+  "sources": [
+    {
+      "name": "Mouse_Native_HQ_GE.zip",
+      "bytes": 16219007,
+      "sha256": "c877304c602aa15e0d0b56ba22aeab7ae041c07a2fa647eb8930581198cea3bf"
+    },
+    {
+      "name": "McShane_mouse_mmc1.xlsx",
+      "bytes": 1285880,
+      "sha256": "2d0a872ffc1c18b4b56d89b27332a450a63a11c129fec29f8f663c3081f07f82"
+    }
+  ]
+}
